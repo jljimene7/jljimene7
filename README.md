@@ -1,7 +1,7 @@
 -   Hi, I’m Luis a Controls Engineer @ Renasci Systems Integration Group.
      I graduated from NC State University with a B.S. and M.S in Mechanical Engineering, specialized in Dynamics &      Controls.
 
-  As an undergraduate and Master student I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) 
+  - As an undergraduate and Master student I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) 
   where I worked on three projects:
      1. Designed and manufactured a 3DOF Gimbal system to test the fly dynamics of a rolling-flying vehicle (Undergrad)
      2. Designed and manufactured a spherical carbon fiber cage and a three-axis gimble system for a [rolling-flying vehicle](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/5/050901/1106903/The-Spherical-Rolling-Flying-Vehicle-Dynamic) (Undergrad)
