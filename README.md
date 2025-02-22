@@ -4,10 +4,11 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
      3. Developed a Neural Network based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
 
 
-- 🌱🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I am also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
+- 🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I am also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
   1. "A systematic review on AI techniques for nemtode microscopy image analysis" 
   2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
 
+- 🌱 I am currently learning more about ROS, Unity, AI/ML development and deployment
 - 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻
 - 🏔️ I enjoy visiting National parks, playing soccer, playing card games, chess, hiking, and snowboarding 🏂
 - ⚽️ Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça 🇪🇸
