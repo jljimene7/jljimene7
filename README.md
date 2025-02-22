@@ -1,4 +1,5 @@
 -Hi, I'm Luis a visiting reseacher in the department of Electrical and Computer Engineering @ NC State. 
+
 -As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:
      1. Designed and manufactured a 3DOF Gimbal system to test the flight dynamics of a rolling-flying vehicle (Undergrad)
      2. Designed and built a spherical carbon fiber cage and a three-axis gimble system for a [rolling-flying vehicle](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/5/050901/1106903/The-Spherical-Rolling-Flying-Vehicle-Dynamic) (Undergrad)
