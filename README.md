@@ -10,7 +10,7 @@
 
 - 🌱 I am currently learning more about ROS, Unity, AI/ML development and deployment
 - 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻
-- 🏔️ I enjoy visiting National parks, playing soccer, playing card games, chess, hiking, and snowboarding 🏂
+- 🏔️ I enjoy visiting National Parks, playing soccer, working out, boxing, hiking, playing card games, chess, and snowboarding 🏂
 - ⚽️ Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça 🇪🇸
 
 
