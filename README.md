@@ -11,7 +11,7 @@
 
 - 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻
 - 🏔️ I enjoy visiting National parks, playing soccer, playing card games, chess, hiking, and snowboarding 🏂
-- Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça ⚽️
+- ⚽️ Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça 🇪🇸
 
 
 <!---
