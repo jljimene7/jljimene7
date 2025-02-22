@@ -5,7 +5,7 @@
   where I worked on three projects:
      1. Designed and manufactured a 3DOF Gimbal system to test the fly dynamics of a rolling-flying vehicle (Undergrad)
      2. Designed and manufactured a spherical carbon fiber cage and a three-axis gimble system for a [rolling-flying vehicle](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/5/050901/1106903/The-Spherical-Rolling-Flying-Vehicle-Dynamic) (Undergrad)
-     3. Developed a Neural-Netwrok based Model Reference Adaptive Control System for a Permanent Magnet Synchoronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). 
+     3. Developed a Neural-Netwrok based Model Reference Adaptive Control System for a Permanent Magnet Synchoronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Grad)
 
 
 
