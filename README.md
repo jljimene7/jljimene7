@@ -8,6 +8,7 @@ Hi, I'm Luis a Visiting Reseacher in the Department of Electrical and Computer E
 Currently, I am also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
   1. "A systematic review on AI techniques for nemtode microscopy image analysis" 
   2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
+     
 
      
 🌱 I am currently learning more about ROS, Unity, AI/ML development and deployment  
