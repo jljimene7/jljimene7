@@ -6,6 +6,7 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 3. Developed a Neural Network based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
 
 
+
 🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I'm also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
 
 1. "A systematic review on AI techniques for nemtode microscopy image analysis" 
