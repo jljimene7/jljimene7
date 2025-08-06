@@ -14,7 +14,7 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
      
 
      
-🌱 I am currently learning more about ROS, Unity, AI/ML development and deployment  
+🌱 I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects
 
 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻  
 
