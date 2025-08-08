@@ -7,6 +7,7 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 
 
 
+
 🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I'm also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
 
 1. "A systematic review on AI techniques for nemtode microscopy image analysis" 
@@ -15,11 +16,8 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 
      
 🌱 I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects
-
 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻  
-
 🏔️ I enjoy visiting National Parks, playing soccer, boxing, hiking, playing card games, chess, and snowboarding 🏂  
-
 ⚽️ Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça 🇪🇸  
 
 
