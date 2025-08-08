@@ -1,4 +1,4 @@
-Hi, I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. 
+Hi, I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects.
 
 As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:  
 1. Designed and manufactured a 3DOF Gimbal system to test the flight dynamics of a rolling-flying vehicle (Undergrad)  
@@ -14,8 +14,6 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
      
 
-     
-🌱 I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects
 
 🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻  
 🏔️ I enjoy visiting National Parks, playing soccer, boxing, hiking, playing card games, chess, and snowboarding 🏂  
