@@ -1,7 +1,7 @@
 Hi, I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects.
 
 As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:  
-1. Developed a Neural Network based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
+1. Developed a ML-based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
 2. Designed and built a spherical carbon fiber cage and a three-axis gimble system for a [rolling-flying vehicle](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/5/050901/1106903/The-Spherical-Rolling-Flying-Vehicle-Dynamic) (Undergrad)
 3. Designed and manufactured a 3DOF Gimbal system to test the flight dynamics of a rolling-flying vehicle (Undergrad)  
 
