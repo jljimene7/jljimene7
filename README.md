@@ -10,9 +10,9 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 
 
 
-🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I'm also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) on two publications:
+🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I'm also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) and have publsihed a jounal paper and currently working on a conference publication:
 
-1. "Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review" 
+1. [Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review](https://www.mdpi.com/2624-7402/7/11/356)
 2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
      
 
