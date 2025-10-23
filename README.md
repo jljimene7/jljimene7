@@ -6,11 +6,7 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 3. Designed and manufactured a 3DOF Gimbal system to test the flight dynamics of a rolling-flying vehicle (Undergrad)  
 
 
-
-
-
-
-🦾 I’m interested in robotics, computer vision, AI/ML development and deployment. Currently, I'm also working with [Dr. Lobaton](https://ece.ncsu.edu/people/ejlobato/) and have publsihed a jounal paper and currently working on a conference publication:
+🦾 I’m passionate about human-robot collaboration in the agriculture space. Currently, I'm collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/), where I've contributed to a publication journal paper and am preparing a conference submission.
 
 1. [Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review](https://www.mdpi.com/2624-7402/7/11/356)
 2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
