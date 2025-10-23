@@ -1,4 +1,4 @@
-Hi, I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. I am currently learning more about ROS, Unity, Emebedded Systems, AI/ML development and deployment through different consulting projects.
+I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. I'm deeply interested in entrepreneurship, start-ups, and robotics. I've had the fortune to build my own consulting business, where I've worked on projects involving AI/ML development and deployment and automated robotic systems. 
 
 As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:  
 1. Developed a ML-based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
@@ -6,17 +6,15 @@ As an undergraduate and master's student, I worked under the supervision of [Dr.
 3. Designed and manufactured a 3DOF Gimbal system to test the flight dynamics of a rolling-flying vehicle (Undergrad)  
 
 
-🦾 I’m passionate about human-robot collaboration in the agriculture space. Currently, I'm collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/), where I've contributed to a publication journal paper and am preparing a conference submission.
+🦾 I’m passionate about human-robot collaboration to make agriculture more sustainable and accessible. I,m currently collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/), where I've contributed to a publised journal paper and am preparing a conference submission.
 
 1. [Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review](https://www.mdpi.com/2624-7402/7/11/356)
 2. "An AI model for detecting, segmenting, and classifying microscopic images of parasitic nematodes"
      
 
+Beyond research, I love learning about geopolitics, history, and different cultures and languages 🇸🇻. In my free time, I enjoy visiting National Parks, playing soccer, boxing, hiking, chess, and snowboarding 🏔️⚽️.
 
-🗺️ I love learning about geopolitics, history, and different cultures + languages 🇸🇻  
-🏔️ I enjoy visiting National Parks, playing soccer, boxing, hiking, playing card games, chess, and snowboarding 🏂  
-⚽️ Fun fact: I can juggle a soccer ball for more than 30 minutes, Visca Barça 🇪🇸  
-
+⚽️ Fun fact: I can keep a soccer ball in the air for more than 30 minutes — Visca Barça! 🇪🇸
 
 
 <!---
