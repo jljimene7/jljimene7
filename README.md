@@ -1,4 +1,4 @@
-I'm Luis a Visiting Reseacher in ECE @ NC State. I'm deeply interested in entrepreneurship, start-ups, and robotics. I've had the fortune to build my own consulting business, where I've worked on projects involving AI/ML development and deployment and robotic systems. 
+I'm Luis a Visiting Reseacher in ECE @ NC State. I'm deeply interested in entrepreneurship, start-ups, and robotics. I've had the fortune to build my own consulting business, where I've worked on projects involving AI/ML development and deployment, robotic systems, control system design, and mechanical design and analysis. 
 
 🦾 I’m passionate about human-robot collaboration to make agriculture more sustainable and accessible. I'm currently collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/), where I've contributed to a published journal paper and am preparing a conference submission.
 
