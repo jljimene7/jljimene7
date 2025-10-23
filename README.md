@@ -1,4 +1,4 @@
-I'm Luis a Visiting Reseacher in the Department of Electrical and Computer Engineering @ NC State. I'm deeply interested in entrepreneurship, start-ups, and robotics. I've had the fortune to build my own consulting business, where I've worked on projects involving AI/ML development and deployment and automated robotic systems. 
+I'm Luis a Visiting Reseacher in ECE @ NC State. I'm deeply interested in entrepreneurship, start-ups, and robotics. I've had the fortune to build my own consulting business, where I've worked on projects involving AI/ML development and deployment and automated robotic systems. 
 
 As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:  
 1. Developed a ML-based Model Reference Adaptive Control System for a Permanent Magnet Synchronous [Spherical Motor](https://www.mdpi.com/2075-1702/10/8/612). (Master's Project)
