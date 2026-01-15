@@ -16,7 +16,7 @@ Beyond research, I love learning about geopolitics, history, and different cultu
 
 ⚽️ Fun fact: I can keep a soccer ball in the air for more than 30 minutes — Visca Barça! 🇪🇸
 
-Founder @ [Ennovatec](ennovatec.co), [AutomationTek](automationtek.co) and [TerrinsightAI](https://terrainsightai.carrd.co)
+Founder @ [Ennovatec](ennovatec.co), [AutomationTek](automationtek.co), and [TerrinsightAI](https://terrainsightai.carrd.co)
 
 
 <!---
