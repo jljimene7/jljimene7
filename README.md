@@ -3,7 +3,7 @@ I'm Luis a Visiting Reseacher in ECE @ NC State. I'm deeply interested in entrep
 🦾 I’m passionate about human-robot collaboration to make agriculture more sustainable and accessible. I'm currently collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/), where I've contributed to a published journal paper and am preparing a conference submission.
 
 1. [Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review](https://www.mdpi.com/2624-7402/7/11/356)
-2. "Automated Microscope Stage and Computer Vision System for Real-Time Nematode Detection and Classification."
+2. "Automated Microscope Stage and Computer Vision Integration for Real-Time Nematode Detection and Classification."
    
 
 As an undergraduate and master's student, I worked under the supervision of [Dr. Gregory Bucker](https://mae.ncsu.edu/people/gbuckner/) on multiple projects, including:  
