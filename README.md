@@ -1,6 +1,6 @@
 ## Hi, I'm Luis
 
-- Visiting Researcher in ECE at NC State
+- AI/ML Engineer @ Nexstratus Inc. and Visiting Researcher in ECE at NC State
 - Interested in robotics, entrepreneurship, and AI/ML
 - Founder of [Ennovatec](https://ennovatec.co), [AutomationTek](https://automationtek.co), and [TerraCV](https://terracv.com)
 
