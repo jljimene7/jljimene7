@@ -19,16 +19,12 @@ Under the supervision of [Dr. Gregory Buckner](https://mae.ncsu.edu/people/gbuck
 
 ### Interests
 - Human-robot collaboration for more sustainable and accessible agriculture
-- Geopolitics, history, cultures, and languages
-- National parks, soccer, boxing, hiking, chess, and snowboarding
+- Geopolitics, history, cultures, and languages 🇸🇻
+- National parks, soccer, boxing, hiking, chess, and snowboarding 🏔️⚽️.
 
 ### Fun fact
-- I can keep a soccer ball in the air for more than 30 minutes - Visca Barça! 🇪🇸
+- I can juggle a soccer ball for more than 30 minutes - Visca Barça! 🇪🇸
 - I used work in constuction framing houses during community college
-
-
-I love learning about geopolitics, history, and different cultures and languages 🇸🇻. 
-In my free time, I enjoy visiting National Parks, playing soccer, boxing, hiking, chess, and snowboarding 🏔️⚽️.
 
 <!---
 jljimene7/jljimene7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
