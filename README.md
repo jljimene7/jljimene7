@@ -8,7 +8,7 @@
 - Collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/) on computer vision and robotics research for agriculture
 - Contributed to a published journal paper:
   - [*Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review*](https://www.mdpi.com/2624-7402/7/11/356)
-- Preparing a conference submission:
+- Preparing conference submissions:
   - *Automated Microscope Stage and Computer Vision Integration for Real-Time Nematode Detection and Classification*
   - *Focal Stack Range Drift Correction Using Kalman Filtering for Automated Nematode Microscopy*
 
