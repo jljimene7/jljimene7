@@ -25,7 +25,7 @@ Under the supervision of [Dr. Gregory Buckner](https://mae.ncsu.edu/people/gbuck
 
 ### Fun fact
 - I can juggle a soccer ball for more than 30 minutes - Visca Barça! 🇪🇸
-- I used work in constuction framing houses during community college
+- I used work in construction, framing houses, while attending a community college
 
 <!---
 jljimene7/jljimene7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
