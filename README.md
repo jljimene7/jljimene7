@@ -7,9 +7,10 @@
 ### Current work
 - Collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/) on computer vision and robotics research for agriculture
 - Contributed to a published journal paper:
-  - [Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review](https://www.mdpi.com/2624-7402/7/11/356)
+  - [*Machine Learning Techniques for Nematode Microscopic Image Analysis: A Systematic Review*](https://www.mdpi.com/2624-7402/7/11/356)
 - Preparing a conference submission:
   - *Automated Microscope Stage and Computer Vision Integration for Real-Time Nematode Detection and Classification*
+  - *Focal Stack Range Drift Correction Using Kalman Filtering for Automated Nematode Microscopy*
 
 ### Previous research
 Under the supervision of [Dr. Gregory Buckner](https://mae.ncsu.edu/people/gbuckner/), I worked on:
