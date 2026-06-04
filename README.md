@@ -23,7 +23,7 @@ Under the supervision of [Dr. Gregory Buckner](https://mae.ncsu.edu/people/gbuck
 - Geopolitics, history, cultures, and languages 🇸🇻
 - National parks, soccer, boxing, hiking, chess, and snowboarding 🏔️⚽️.
 
-### Fun fact
+### Interesting fact
 - I can juggle a soccer ball for more than 30 minutes - Visca Barça! 🇪🇸
 - I used work in construction, framing houses, while attending a community college
 
