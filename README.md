@@ -2,7 +2,7 @@
 
 ### Software Robotics and AI/ML Consultant 
 - Interested in robotics, entrepreneurship, and AI/ML
-- Founder of [Ennovatec](https://ennovatec.co), [AutomationTek](https://automationtek.co), and [TerraCV](https://terracv.com)
+- Co-Founder of [Ennovatec](https://ennovatec.co), [AutomationTek](https://automationtek.co), and [TerraCV](https://terracv.com)
 
 ### Current work
 - Collaborating with [Dr. Edgar Lobaton](https://ece.ncsu.edu/people/ejlobato/) on computer vision and robotics research for agriculture
